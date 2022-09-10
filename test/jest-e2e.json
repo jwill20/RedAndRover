@@ -1,0 +1,11 @@
+{
+  "moduleFileExtensions": ["js", "json", "ts"],
+  "verbose": true,
+  "rootDir": ".",
+  "roots": ["rover.service2.spec.ts"],
+  "testEnvironment": "node",
+  "testRegex": "rover.service2.spec.ts$",
+  "transform": {
+    "^.+\\.(t|j)s$": "ts-jest"
+  }
+}
